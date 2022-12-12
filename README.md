@@ -8,7 +8,7 @@ I have worn many hats over my career: as a theoretical physicist, blockchain dev
 
 ### Stuff I made 
 
-My biggest projects have to do with poker and crypto and are not easily shareable (see [resume][resume]), but please check out my publicly deployed projects below. Their repos are here on Github!
+My biggest projects have to do with poker and crypto and are not easily shareable (see [resume][resume]), but please check out live demos of my publicly deployed projects:
 
 **[Bet Czar Dapp](https://reasonmethis.github.io/bet-czar-frontend)** - manage and enforce bets on EVM blockchains. Has two components, each in a separate repo: (a) the Hardhat project with the Solidity contract, (b) the frontend, implemented with React, TypeScript, Material UI, Ethers. Currently deployed on the Goerli Ethereum testnet, so you can test it out with free test tokens - the site will point you in the right direction to get set up.
 
