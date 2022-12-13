@@ -2,15 +2,15 @@
 
 I have worn many hats over my career: as a theoretical physicist, blockchain developer/trader, professional poker player, and science & philosophy blogger. 
 
-## View my resume
+### View my resume
 
 **[Resume Dec 2022][resume]**
 
-## View some neat stuff I made 
+### Stuff I made 
 
-My biggest projects have to do with poker and crypto and are not easily shareable (see [resume][resume]), but please check out my publicly deployed projects below. Their repos are here on Github!
+My biggest projects have to do with poker and crypto and are not easily shareable (see [resume][resume]), but please check out live demos of my publicly deployed projects:
 
-**[Bet Czar Dapp](https://reasonmethis.github.io/bet-czar-frontend)** - manage and enforce bets on EVM blockchains. Has two components, each in a separate repo: (a) the Hardhat project with the Solidity contract, (b) the frontend, implemented with React, TypeScript, Material UI, Ethers.
+**[Bet Czar Dapp](https://reasonmethis.github.io/bet-czar-frontend)** - manage and enforce bets on EVM blockchains. Has two components, each in a separate repo: (a) the Hardhat project with the Solidity contract, (b) the frontend, implemented with React, TypeScript, Material UI, Ethers. Currently deployed on the Goerli Ethereum testnet, so you can test it out with free test tokens - the site will point you in the right direction to get set up.
 
 **[Crypto Analyzer Telegram Bot](https://t.me/bobthebonobobot)** - get text and graphical info on crypto tokens: impermanent loss, autocorrelation, price history, trends, set up alerts, etc. **Note:** this is mostly for my private use - even though I added many help messages some sections may still not be very intuitive.
 
@@ -18,7 +18,7 @@ My biggest projects have to do with poker and crypto and are not easily shareabl
 
 **[Kristoshka](https://reasonmethis.github.io/kristoshka)** - my girlfriend asked and I obliged: it's surprisingly hard to find a good unit and calorie converter for cooking ingredients that (a) can be easily used on a small screen while cooking and (b) doesn't accidentally use, say, Canadian cups instead of US cups. Tools: React, TypeScript, Material UI.
 
-## View my articles and posts.
+### View my articles and posts.
 
 I am a big fan of physics and analytic philosophy. Here are some articles from my blog and from Stackexchange:
 
