@@ -4,7 +4,7 @@ I have worn many hats over my career: as a theoretical physicist, blockchain dev
 
 ## View my resume
 
-[Resume Dec 2022][resume]
+**[Resume Dec 2022][resume]**
 
 ## View some neat stuff I made 
 
