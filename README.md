@@ -1,24 +1,19 @@
-# Hi, I'm Dmitriy aka ReasonMeThis
+# I'm Dmitriy aka ReasonMeThis
 
 I have worn many hats over my career: as a theoretical physicist, professional poker player, science & philosophy blogger, DeFi & algo trading aficionado, AI bot builder, and a full-stack blockchain developer. 
 
-### View my resume
-
-**[Resume Nov 2023][resume]**
+**[LinkedIn](https://linkedin/in/dmitriyvasilyuk)**  
+**[Resume][resume]**
 
 ### Some stuff I made 
 
-I'm currently working on my AI bot [DocDocGo](https://github.com/reasonmethis/docdocgo-core/), which allows you to ask questions about your private documents and do a bit of web research.
+I'm currently working on my AI bot DocDocGo ([live demo](https://docdocgo.streamlit.app), [repo](https://github.com/reasonmethis/docdocgo-core/)), which performs what I've called _"infinite" web research_: finds and ingests potentially hundreds of websites relevant to the topic you give it, generates an iteratively improving report, and forms a knowledge base from all fetched sources for follow-up questions. You can also create a knowledge base from your own documents, do keyword search, ask the bot itself for help using it, and much more.
 
-My biggest past projects have to do with poker and crypto and are not easily shareable (see [resume][resume]) as live demos. I have a few publicly deployed projects though:
+**[Bet Czar dApp](https://reasonmethis.github.io/bet-czar-frontend)** - manage and enforce bets on EVM blockchains. Has two components, each in a separate repo: (a) [the Hardhat project](https://github.com/reasonmethis/bet-czar-contract-solidity) with the Solidity contract, (b) [the frontend](https://github.com/reasonmethis/bet-czar-frontend), implemented with React, TypeScript, Material UI, Ethers. Currently deployed on the Goerli Ethereum testnet, so you can test it out with free test tokens - the site will point you in the right direction to get set up.
 
-**[Bet Czar dApp](https://reasonmethis.github.io/bet-czar-frontend)** - manage and enforce bets on EVM blockchains. Has two components, each in a separate repo: (a) the Hardhat project with the Solidity contract, (b) the frontend, implemented with React, TypeScript, Material UI, Ethers. Currently deployed on the Goerli Ethereum testnet, so you can test it out with free test tokens - the site will point you in the right direction to get set up.
+**[VocabMeThis](https://www.reasonmethis.com/2021/05/vocabmethis-measure-and-improve-your.html)** - a web app (Flask) to measure and improve the user's vocabulary. It ranks words by difficulty by constructing a frequency dictionary from NLTK corpora. It then suggests words to you whose difficulty level is chosen based on your measured vocabulary. It's great for English learners who want to learn words at just the right difficulty level.
 
-**[Crypto Analyzer Telegram Bot](https://t.me/bobthebonobobot)** - get text and graphical info on crypto tokens: impermanent loss, autocorrelation, price history, trends, set up alerts, etc. **Note:** This is mostly for my private use - even though I added many help messages some sections may still not be very intuitive. [UPDATE - currently not deployed live, please contact me if you'd like to check it out] 
-
-**[VocabMeThis](https://www.reasonmethis.com/2021/05/vocabmethis-measure-and-improve-your.html)** - web app (Flask) to measure and improve user's vocabulary. It ranks words by difficulty by constructing a frequency dictionary from NLTK corpora. It then suggests words to you with difficulty based on your measured vocabulary (good for English learners).
-
-**[Kristoshka](https://reasonmethis.github.io/kristoshka)** - my first React app. It's surprisingly hard to find a good unit and calorie converter for cooking ingredients that (a) can be easily used on a small screen while cooking and (b) doesn't accidentally use, say, Canadian cups instead of US cups.
+My biggest past projects have to do with poker and crypto. See my [resume][resume] for details.
 
 ### Articles and posts.
 
@@ -34,4 +29,4 @@ I am a big fan of physics and analytic philosophy. Here are some articles from m
 
 and lots more where that came from.
 
-[resume]: https://github.com/reasonmethis/resume/blob/main/Dmitriy%20Vasilyuk%20Resume%20Nov%202023.pdf
+[resume]: https://github.com/reasonmethis/resume/
