@@ -1,37 +1,28 @@
-# I'm Dmitriy aka ReasonMeThis
+### Hi there! 👋
 
-I have worn many hats throughout my career: theoretical physicist, professional poker player, science and philosophy blogger, DeFi and algorithmic trading enthusiast, AI assistant builder, and full-stack blockchain developer. 
+I'm Dmitriy Vasilyuk. I am a full-stack developer specializing in blockchain and AI.
 
-**[Blog](https://www.reasonmethis.com)**  
-**[LinkedIn](https://linkedin/in/dmitriyvasilyuk)**  
-**[Resume][resume]**
+In a previous life, I was a theoretical physics PhD student, startup co-founder, professional poker player, science and philosophy blogger, and a DeFi and algorithmic trading enthusiast.
 
-### Some stuff I made 
+- 🌐 [LinkedIn](https://linkedin.com/in/dmitriyvasilyuk)
+- 📝 [Blog](https://www.reasonmethis.com)
+- 📄 [Resume](https://github.com/reasonmethis/resume/)
 
-I'm currently working on my AI assistant DocDocGo ([live demo](https://docdocgo.streamlit.app), [code](https://github.com/reasonmethis/docdocgo-core/)), which was recently [featured](https://www.linkedin.com/posts/streamlit_ai-rag-chatgpt-activity-7189352534971486208-woYY/?utm_source=share&utm_medium=member_desktop) by Streamlit. DocDocGo is a chatbot research assistant and can save you tons of time when you are looking for information that's not as easy to find as checking the first page of Google search results. 
+I'm currently building [DocDocGo](https://docdocgo.streamlit.app), a multifunctional chatbot that saves you time when you have to sift through lots of websites or documents to find the information you need. It conducts online research, finds important information among hundreds of sources, and builds comprehensive knowledge bases from these sources that you can chat with. Recently [featured](https://www.linkedin.com/posts/streamlit_ai-rag-chatgpt-activity-7189352534971486208-woYY/?utm_source=share&utm_medium=member_desktop) by Streamlit. Check out the [live demo](https://docdocgo.streamlit.app) and [code](https://github.com/reasonmethis/docdocgo-core/).
 
-It can perform what I've called _"infinite" web research_: it iteratively finds and ingests as much online content as needed on any topic, generates and continuously refines a report, and forms a knowledge base from all fetched sources for follow-up questions.
+### Other Live Demos
 
-You can also create a knowledge base from your own documents, do keyword search, share your knowledge bases with other users and much more. Interacting with DocDocGo is similar to interacting with ChatGPT - you just chat with it, and it uses information from the currently selected knowledge base in its responses. It's also "self-aware": it knows its own documentation, so you can ask it for help using its various features and commands.
+**[Bet Czar dApp](https://reasonmethis.github.io/bet-czar-frontend)** - Manage and enforce bets on EVM blockchains. The smart contract is deployed on Goerli. I built this dApp when I was learning Solidity and React. It's a fun way to make bets with friends and enforce them with smart contracts.
 
-**[Bet Czar dApp](https://reasonmethis.github.io/bet-czar-frontend)** - manage and enforce bets on EVM blockchains. Has two components, each in a separate repo: (a) [the Hardhat project](https://github.com/reasonmethis/bet-czar-contract-solidity) with the Solidity contract, (b) [the frontend](https://github.com/reasonmethis/bet-czar-frontend), implemented with React, TypeScript, Material UI, Ethers. Currently deployed on the Goerli Ethereum testnet, so you can test it out with free test tokens - the site will point you in the right direction to get set up.
+**[VocabMeThis](https://www.reasonmethis.com/2021/05/vocabmethis-measure-and-improve-your.html)** - Measure and improve your vocabulary. This Flask app uses a frequency dictionary built from NLTK corpora to rank words by difficulty and suggests words at just the right difficulty level. Great for English learners.
 
-**[VocabMeThis](https://www.reasonmethis.com/2021/05/vocabmethis-measure-and-improve-your.html)** - a web app (Flask) to measure and improve the user's vocabulary. It ranks words by difficulty by constructing a frequency dictionary from NLTK corpora. It then suggests words to you whose difficulty level is chosen based on your measured vocabulary. It's great for English learners who want to learn words at just the right difficulty level.
+### Articles and Posts
 
-My biggest past projects have to do with poker and crypto. See my [resume][resume] for details.
+I'm passionate about physics and analytic philosophy. Here are some articles from my ReasonMeThis blog and StackExchange contributions:
 
-### Articles and posts
-
-I am a big fan of physics and analytic philosophy. Here are some articles from my ReasonMeThis blog and from StackExchange:
-
-* [Are you a Boltzmann brain?](https://www.reasonmethis.com/2021/02/are-you-boltzmann-brain.html)
-* [Fine-tuning, multiverse, and monkeys with typewriters](https://www.reasonmethis.com/2021/01/fine-tuning-multiverse-and-monkeys.html)
-* [The lottery fallacy](https://www.reasonmethis.com/2021/03/the-lottery-fallacy.html)
-* [Fun with stats: how big should my sample size be?](https://www.reasonmethis.com/2022/10/fun-with-stats-how-big-should-my-sample.html)
-* [Let's debunk that Chinese room](https://www.reasonmethis.com/2021/07/lets-try-to-debunk-that-chinese-room.html)
-* [What is quantum local "unrealism"?](https://physics.stackexchange.com/a/600229/280578)
-* [What happens to spin after measurement?](https://physics.stackexchange.com/questions/597862/what-happens-to-spin-after-measurement-does-it-evolve-and-randomise-like-positi/597872#597872)
-
-and lots more where that came from.
-
-[resume]: https://github.com/reasonmethis/resume/
+- [Are you a Boltzmann brain?](https://www.reasonmethis.com/2021/02/are-you-boltzmann-brain.html)
+- [What is quantum local "unrealism"?](https://physics.stackexchange.com/a/600229/280578)
+- [Let's debunk that Chinese room](https://www.reasonmethis.com/2021/07/lets-try-to-debunk-that-chinese-room.html)
+- [Fine-tuning, multiverse, and monkeys with typewriters](https://www.reasonmethis.com/2021/01/fine-tuning-multiverse-and-monkeys.html)
+- [The lottery fallacy](https://www.reasonmethis.com/2021/03/the-lottery-fallacy.html)
+- [Fun with stats: how big should my sample size be?](https://www.reasonmethis.com/2022/10/fun-with-stats-how-big-should-my-sample.html)
