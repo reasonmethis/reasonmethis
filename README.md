@@ -1,7 +1,8 @@
 # I'm Dmitriy aka ReasonMeThis
 
-I have worn many hats over my career: as a theoretical physicist, professional poker player, science & philosophy blogger, DeFi & algo trading aficionado, AI Assistant builder, and a full-stack blockchain developer. 
+I have worn many hats throughout my career: theoretical physicist, professional poker player, science and philosophy blogger, DeFi and algorithmic trading enthusiast, AI assistant builder, and full-stack blockchain developer. 
 
+**[Blog](https://www.reasonmethis.com)
 **[LinkedIn](https://linkedin/in/dmitriyvasilyuk)**  
 **[Resume][resume]**
 
