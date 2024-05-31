@@ -2,7 +2,7 @@
 
 I have worn many hats throughout my career: theoretical physicist, professional poker player, science and philosophy blogger, DeFi and algorithmic trading enthusiast, AI assistant builder, and full-stack blockchain developer. 
 
-**[Blog](https://www.reasonmethis.com)
+**[Blog](https://www.reasonmethis.com)**
 **[LinkedIn](https://linkedin/in/dmitriyvasilyuk)**  
 **[Resume][resume]**
 
