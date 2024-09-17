@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Dmitriy Vasilyuk. I am a full-stack developer specializing in blockchain and AI.
+I'm Dmitriy Vasilyuk. I am a full-stack developer specializing in AI and Web3 applications.
 
 In a previous life, I was a theoretical physics PhD student, startup co-founder, professional poker player, science and philosophy blogger, and a DeFi and algorithmic trading enthusiast.
 
@@ -9,6 +9,8 @@ In a previous life, I was a theoretical physics PhD student, startup co-founder,
 - 📄 [Resume](https://github.com/reasonmethis/resume/)
 
 I'm currently building [DocDocGo](https://docdocgo.streamlit.app), a multifunctional chatbot that saves you time when you have to sift through lots of websites or documents to find the information you need. It conducts online research, finds important information among hundreds of sources, and builds comprehensive knowledge bases from these sources that you can chat with. Recently [featured](https://www.linkedin.com/posts/streamlit_ai-rag-chatgpt-activity-7189352534971486208-woYY/?utm_source=share&utm_medium=member_desktop) by Streamlit. Check out the [live demo](https://docdocgo.streamlit.app) and [code](https://github.com/reasonmethis/docdocgo-core/).
+
+In the course of working on DDG and building LLM workflows for two AI-related startups, I have consolidated the reusable tools I've developed into [LightLang](https://pypi.org/project/lightlang/), a lightweight Python package that makes working with LLMs easier without adding opaqueness and too much abstraction (looking at you, Langchain 😉). Feel free to give it a try, and you can find some examples in the [LightLang Cookbook](https://github.com/reasonmethis/llm-workflow-cookbook-lightlang) repo, which you can run without an API key (you heard it right!).
 
 ### Other Live Demos
 
